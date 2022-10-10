@@ -1,0 +1,7 @@
+Tester c'est important a ce qu'on m'a dit
+On m'a aussi dit qu'il fallait plusieurs lignes
+Car on va splitter chaque ligne
+Vu qu'on n'a pas encode le newline character
+Et oui
+C'est comme ca
+a
